@@ -1,4 +1,10 @@
 <?php
+
+if($_SERVER['REMOTE_ADDR'] != "71.63.134.245")
+{
+	die();
+}
+
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
  * wp-blog-header.php which does and tells WordPress to load the theme.
