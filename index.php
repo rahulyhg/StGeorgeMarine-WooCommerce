@@ -2,6 +2,7 @@
 
 if($_SERVER['REMOTE_ADDR'] != "71.63.134.245")
 {
+	header("Location: http://fvbrennaa.com/coming-soon/index.html");
 	die();
 }
 
