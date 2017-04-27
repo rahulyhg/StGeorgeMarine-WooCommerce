@@ -1,6 +1,15 @@
 <?php
 
-if($_SERVER['REMOTE_ADDR'] != "71.63.134.245")
+$allowed_ips = array(
+	// Derek
+	"71.63.134.245",
+	// Derek (Work)
+	"107.1.156.225",
+	// Brianna & Sean
+	"76.121.42.104"
+);
+
+if(!in_array($_SERVER['REMOTE_ADDR'], $allowed_ips))
 {
 	header("Location: http://fvbrennaa.com/coming-soon/index.html");
 	die();

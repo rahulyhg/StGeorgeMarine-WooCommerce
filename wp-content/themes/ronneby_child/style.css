@@ -23,3 +23,141 @@ Version:        1.0.0
 		padding: 0 30px;
 	}
 }
+
+/* Main Menu > Nav Item Hover */
+#header-container.header-style-7.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(1) > a.item-title:hover,
+#header-container.header-style-7.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(2) > a.item-title:hover,
+#header-container.header-style-7.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(3) > a.item-title:hover,
+#header-container.header-style-7.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(4) > a.item-title:hover,
+#header-container.header-style-7.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(5) > a.item-title:hover,
+#header-container.header-style-7.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(6) > a.item-title:hover,
+#header-container.header-style-7.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(7) > a.item-title:hover,
+#header-container.header-style-7.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(8) > a.item-title:hover,
+#header-container.header-style-7.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(1) > a.item-title:hover,
+#header-container.header-style-7.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(2) > a.item-title:hover,
+#header-container.header-style-7.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(3) > a.item-title:hover,
+#header-container.header-style-7.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(4) > a.item-title:hover,
+#header-container.header-style-7.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(5) > a.item-title:hover,
+#header-container.header-style-7.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(6) > a.item-title:hover,
+#header-container.header-style-7.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(7) > a.item-title:hover,
+#header-container.header-style-7.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(8) > a.item-title:hover,
+#header-container.header-style-14.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(1) > a.item-title:hover,
+#header-container.header-style-14.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(2) > a.item-title:hover,
+#header-container.header-style-14.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(3) > a.item-title:hover,
+#header-container.header-style-14.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(4) > a.item-title:hover,
+#header-container.header-style-14.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(5) > a.item-title:hover,
+#header-container.header-style-14.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(6) > a.item-title:hover,
+#header-container.header-style-14.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(7) > a.item-title:hover,
+#header-container.header-style-14.opened #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(8) > a.item-title:hover,
+#header-container.header-style-14.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(1) > a.item-title:hover,
+#header-container.header-style-14.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(2) > a.item-title:hover,
+#header-container.header-style-14.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(3) > a.item-title:hover,
+#header-container.header-style-14.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(4) > a.item-title:hover,
+#header-container.header-style-14.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(5) > a.item-title:hover,
+#header-container.header-style-14.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(6) > a.item-title:hover,
+#header-container.header-style-14.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(7) > a.item-title:hover,
+#header-container.header-style-14.opened.animated--header.headroom--top #header .header-wrap .row.decorated .header-main-panel .header-col-fluid nav.mega-menu ul.nav-menu > li:nth-child(8) > a.item-title:hover {
+	color: #64ccf5;
+}
+
+/* Revolution Slider (Home Page) */
+.rev_slider {
+	text-shadow: 1px 1px 5px rgba(0,0,0,1);
+}
+
+/* Boat & Captain */
+.vc_custom_1492316979222 {
+	background-position: center bottom;
+}
+
+/* Product Page > Header > Page Title */
+#stuning-header div.page-title-inner .page-title {
+	color: #fff;
+}
+
+/* Product Listings Page > Dropdown Icon */
+.click-dropdown:hover > a:before {
+	background: #64ccf5;
+	-webkit-box-shadow: 0 2px 0 0 #64ccf5, 0 4px 0 0 #64ccf5;
+	box-shadow: 0 2px 0 0 #64ccf5, 0 4px 0 0 #64ccf5;
+}
+
+/* Product Listings Page > Category Label */
+.product .woo-title-wrap .dfd-folio-categories .byline.category a {
+	background: #64ccf5;
+}
+
+/* Product Listings Page > Product Links */
+.products .product .woo-title-wrap div.box-name:hover {
+	color: #64ccf5;
+}
+
+/* Product Page > Dropdown Icon */
+.dk-select .dk-selected:hover:before,
+.dk-select-multi .dk-selected:hover:before {
+	-webkit-box-shadow: 0 -2px 0 #64ccf5, 0 2px 0 #64ccf5;
+	box-shadow: 0 -2px 0 #64ccf5, 0 2px 0 #64ccf5;
+	background-color: #64ccf5;
+}
+
+/* Product Page > Clear Selection, Product Code & Categories Link(s) */
+.single-product .cart table.variations tr td.clear-section .reset_variations > span:before,
+.single-product .product-meta > div > span.sku_wrapper .sku:before,
+.single-product .product-meta > div > span.posted_in a:before {
+	border-bottom-color: #64ccf5;
+}
+
+.single-product .cart table.variations tr td.clear-section .reset_variations > span:hover {
+	color: #64ccf5;
+}
+
+/* Product Page > Add to Cart Button */
+.single-product .cart .added_to_cart,
+.single-product .cart .single_add_to_cart_button {
+	background: #64ccf5;
+}
+
+.single-product .cart .added_to_cart:hover,
+.single-product .cart .single_add_to_cart_button:hover {
+	background: #1cb4f0;
+}
+
+button:not(.ubtn),
+.button:not(.ubtn) {
+	border: 1px solid #64ccf5;
+}
+
+/* Product Page > Product Code & Categories Link(s) */
+.single-product .product-meta > div > span.sku_wrapper .sku:hover,
+.single-product .product-meta > div > span.posted_in a:hover {
+	color: #64ccf5;
+}
+
+/* Product Page > Tabs */
+.single-product .tabs.horisontal dd a.box-name:hover,
+.single-product .tabs.horisontal dt a.box-name:hover {
+	color: #64ccf5;
+}
+
+.single-product .tabs.horisontal dd.active a.box-name {
+	border-color: #64ccf5;
+}
+
+/* Product Page > Add Review Button */
+.button.wc-backward:not(.ubtn),
+button:not(.ubtn),
+.button:not(.ubtn),
+#wp-submit:not(.ubtn),
+#commentform #submit:not(.ubtn) {
+	background: #64ccf5;
+	border: 1px solid #64ccf5;
+}
+
+.button.wc-backward:not(.ubtn):hover,
+button:not(.ubtn):hover,
+.button:not(.ubtn):hover,
+#wp-submit:not(.ubtn):hover,
+#commentform #submit:not(.ubtn):hover {
+	background: #1cb4f0;
+	border: 1px solid #1cb4f0;
+}
