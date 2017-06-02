@@ -1,19 +1,23 @@
 <?php
 
-$allowed_ips = array(
+/*$allowed_ips = array(
 	// Derek
 	"71.63.134.245",
 	// Derek (Work)
 	"107.1.156.225",
 	// Brianna & Sean
-	"76.121.42.104"
+	"76.121.42.104",
+	// Brianna & Sean (Mexico)
+	"189.176.139.110",
+	// Brianna & Sean (Unknown)
+	"174.26.65.182"
 );
 
 if(!in_array($_SERVER['REMOTE_ADDR'], $allowed_ips))
 {
 	header("Location: http://fvbrennaa.com/coming-soon/index.html");
 	die();
-}
+}*/
 
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads

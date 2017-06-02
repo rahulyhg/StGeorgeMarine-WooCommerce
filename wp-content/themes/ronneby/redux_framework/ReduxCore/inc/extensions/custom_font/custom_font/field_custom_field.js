@@ -1,6 +1,6 @@
-/* global confirm, redux, redux_change */
-
-jQuery(document).ready(function() {
-
-
-});
+/* global confirm, redux, redux_change */
+
+jQuery(document).ready(function() {
+
+
+});

@@ -70,6 +70,17 @@ Version:        1.0.0
 	background-position: center bottom;
 }
 
+/* Events */
+.vc_custom_1492149565198 {
+	background-position: 0% 50%;
+}
+
+@media only screen and (min-width: 1600px) {
+	.vc_custom_1492149565198 {
+		background-position: top left;
+	}
+}
+
 /* Product Page > Header > Page Title */
 #stuning-header div.page-title-inner .page-title {
 	color: #fff;
@@ -160,4 +171,23 @@ button:not(.ubtn):hover,
 #commentform #submit:not(.ubtn):hover {
 	background: #1cb4f0;
 	border: 1px solid #1cb4f0;
+}
+
+/* Contact Us */
+.wpcf7-form input[type="submit"] {
+	background-color: #999 !important;
+}
+
+/* Dropdowns */
+.dk-select .dk-select-options,
+.dk-select-multi .dk-select-options
+{
+	overflow-y: auto !important;
+}
+
+.dk-select.dk-select-open-up .dk-select-options,
+.dk-select.dk-select-open-down .dk-select-options,
+.dk-select-multi.dk-select-open-up .dk-select-options,
+.dk-select-multi.dk-select-open-down .dk-select-options {
+	max-height: 325px;
 }

@@ -1,3 +1,3 @@
-<?php
-if ( ! defined( 'ABSPATH' ) ) { exit; }
+<?php
+if ( ! defined( 'ABSPATH' ) ) { exit; }
 get_template_part('index');
